@@ -8,7 +8,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #FF9000 !default;
+$brand-primary: #8a4ebb !default;
 
 $brand-white: #fff;
 $brand-black: #000;
@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: rgba($brand-primary,.9);
+		background: rgba(50, 12, 78, 0.71);
 	}
 	.display-t{
 		width: 100%;
@@ -705,7 +705,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		background-color: #c0392b !important;
 	}
 	&.progress-bar-3{
-		background-color: #d35400 !important;
+		background-color: #8049a5 !important;
 	}
 	&.progress-bar-4{
 		background-color: #8e44ad !important;
