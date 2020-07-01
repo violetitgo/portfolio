@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: #b700ff;
 }
 
 ::-moz-selection {
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: #d887b4;
 }
 
 #fh5co-header,
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: #7016d8;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #0a8a55;
 }
 
 .fh5co-heading {
@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: #ac7bc0e3;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -675,7 +675,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-color: #c0392b !important;
 }
 .progress-bar.progress-bar-3 {
-  background-color: #d35400 !important;
+  background-color: #b237ca !important;
 }
 .progress-bar.progress-bar-4 {
   background-color: #8e44ad !important;
@@ -971,7 +971,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(46, 1, 78, 0.74);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
