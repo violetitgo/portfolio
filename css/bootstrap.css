@@ -2778,8 +2778,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
-  border-color: #eea236;
+  background-color: #47087a;
+  border-color: #45066e;
 }
 .btn-warning:focus, .btn-warning.focus {
   color: #fff;
